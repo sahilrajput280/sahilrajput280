@@ -1,19 +1,110 @@
-<h1 align="center">Hi 👋, I'm Sahil Thakur</h1>
-<h3 align="center">A passionate full-stack developer and AI/ML enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilrajput280&label=Profile%20views&color=0e75b6&style=flat" alt="sahilrajput280" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilrajput280" alt="sahilrajput280" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Futuristic Aurora Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b1e,50:014d34,100:00ff9d&height=250&section=header&text=Sarthak%20Shinde&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=serif" alt="header"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center" style="font-family: 'Georgia', serif; font-size: 26px; font-weight: bold;">
+  👋 Hi, I'm Sarthak Shinde
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilrajput280&show_icons=true&locale=en&layout=compact" alt="sahilrajput280" /></p>
+<div align="center" style="font-family: 'Courier New', monospace; font-size: 18px;">
+  🚀 Full-Stack Developer | 🤖 Tech Enthusiast | 🔬 ML Explorer
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilrajput280&show_icons=true&locale=en" alt="sahilrajput280" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrajput280&" alt="sahilrajput280" /></p>
+## ![🌱](https://img.shields.io/badge/-Currently%20Exploring-014d34?style=for-the-badge&logoColor=white)
+
+- Machine Learning  
+- Automation  
+- Retrieval-Augmented Generation (RAG)  
+
+📫 Reach me at: **sartech2005@gmail.com**
+
+---
+
+## ![🌐](https://img.shields.io/badge/-Connect%20With%20Me-014d34?style=for-the-badge&logoColor=white)
+
+<p align="center">
+  <a href="https://linkedin.com/in/sarthak-shinde-5906802ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/___.sarthakkk.___" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/@sarthakshinde2570" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/sarthak0416" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ![🛠](https://img.shields.io/badge/-Languages%20&%20Tools-014d34?style=for-the-badge&logoColor=white)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,python,js,html,css,bootstrap,figma,photoshop,c,cpp" />
+</p>
+
+---
+
+## ![📊](https://img.shields.io/badge/-GitHub%20Analytics-014d34?style=for-the-badge&logoColor=white)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakk04&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakk04&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakk04&theme=tokyonight" height="180" />
+</p>
+
+---
+
+## ![🏆](https://img.shields.io/badge/-GitHub%20Trophies-014d34?style=for-the-badge&logoColor=white)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthakk04&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
+
+---
+
+## ![🐍](https://img.shields.io/badge/-Contribution%20Snake-014d34?style=for-the-badge&logoColor=white)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarthakk04/sarthakk04/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarthakk04/sarthakk04/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/sarthakk04/sarthakk04/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## ![🔥](https://img.shields.io/badge/-Fun%20Badges-014d34?style=for-the-badge&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Blooded-💻-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-❤-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always%20Learning-📚-orange?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarthakk04&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
+
+✨ <div align="center" style="font-family: 'Georgia', serif; font-size: 18px;">“The best is yet to be..” — <b>Sarthak</b></div>
+
+---
+
+<!-- Aurora Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b1e,50:014d34,100:00ff9d&height=120&section=footer"/>
+</p>
