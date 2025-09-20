@@ -1,4 +1,4 @@
-<!-- Futuristic Aurora Banner -->
+  <!-- Futuristic Aurora Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b1e,50:014d34,100:00ff9d&height=250&section=header&text=Sarthak%20Shinde&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=serif" alt="header"/>
 </p>
