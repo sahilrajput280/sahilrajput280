@@ -19,23 +19,20 @@
 - Automation  
 - Retrieval-Augmented Generation (RAG)  
 
-📫 Reach me at: **your-email-here@gmail.com**
+📫 Reach me at: **sahil.thakurrr28@gmail.com**
 
 ---
 
 ## ![🌐](https://img.shields.io/badge/-Connect%20With%20Me-014d34?style=for-the-badge&logoColor=white)
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-thakur2807" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://instagram.com/_.sahil.rajput._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/your-leetcode" target="_blank">
+  <a href="https://www.leetcode.com/_sahilrajput_" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
