@@ -66,7 +66,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sahilrajput280&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
-
 ---
 
 ## ![🐍](https://img.shields.io/badge/-Contribution%20Snake-014d34?style=for-the-badge&logoColor=white)
