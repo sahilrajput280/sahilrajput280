@@ -72,11 +72,15 @@
 
 <p align="center">
   <picture>
+    <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilrajput280/sahilrajput280/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light mode -->
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilrajput280/sahilrajput280/output/github-contribution-grid-snake.svg" />
+    <!-- Fallback (always shows if theme detection fails) -->
     <img alt="snake animation" src="https://raw.githubusercontent.com/sahilrajput280/sahilrajput280/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 
 ---
 
