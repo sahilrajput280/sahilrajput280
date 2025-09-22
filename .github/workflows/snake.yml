@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0   # ✅ fetch full history, required for gh-pages
+          fetch-depth: 0   # ✅ full history
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -32,4 +32,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
-          force_orphan: true   # ✅ makes `output` branch a clean slate each time
+          force_orphan: true   # ✅ avoids history conflicts
