@@ -10,16 +10,15 @@
 <div align="center" style="font-family: 'Courier New', monospace; font-size: 18px;">
   🎓 B.Tech CSE | 4th Year Student @Amity University Punjab
   💻 Software Engineer | ML Enthusiast | Full-Stack Developer
-  🛠️ Currently working on: NLP, Agentic AI, LLMs
 </div>
 
 ---
 
 ## ![🌱](https://img.shields.io/badge/-Currently%20Exploring-014d34?style=for-the-badge&logoColor=white)
 
-- Machine Learning  
+- Agentic AI 
 - Automation  
-- Retrieval-Augmented Generation (RAG)  
+- NLP, LLMs
 
 📫 Reach me at: **sahil.thakurrr28@gmail.com**
 
