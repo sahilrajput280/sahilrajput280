@@ -8,7 +8,9 @@
 </div>
 
 <div align="center" style="font-family: 'Courier New', monospace; font-size: 18px;">
-  🚀 Full-Stack Developer | 🤖 Tech Enthusiast | 🔬 ML Explorer
+  🎓 B.Tech CSE | 4th Year Student @Amity University Punjab
+  💻 Software Engineer | ML Enthusiast | Web Developer
+  🛠️ Currently working on: NLP, Agentic AI, LLMs
 </div>
 
 ---
@@ -79,6 +81,13 @@
   </picture>
 </p>
 
+<div align="center">
+  
+  ### 🐍 Watch My Contributions Get Eaten!
+  
+  ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
 
 ---
 
