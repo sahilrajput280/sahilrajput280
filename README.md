@@ -9,7 +9,7 @@
 
 <div align="center" style="font-family: 'Courier New', monospace; font-size: 18px;">
   🎓 B.Tech CSE | 4th Year Student @Amity University Punjab
-  💻 Software Engineer | ML Enthusiast | Web Developer
+  💻 Software Engineer | ML Enthusiast | Full-Stack Developer
   🛠️ Currently working on: NLP, Agentic AI, LLMs
 </div>
 
@@ -69,21 +69,8 @@
 </p>
 
 ---
-
-## ![🐍](https://img.shields.io/badge/-Contribution%20Snake-014d34?style=for-the-badge&logoColor=white)
-
-<p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilrajput280/sahilrajput280/output/github-contribution-grid-snake-dark.svg" />
-    <!-- Fallback (always shows if theme detection fails) -->
-    <img alt="snake animation" src="https://raw.githubusercontent.com/sahilrajput280/sahilrajput280/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<div align="center">
   
-  ### 🐍 Watch My Contributions Get Eaten!
+## 🐍 Watch My Contributions Get Eaten!
   
   ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
